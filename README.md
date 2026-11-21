@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Joseph Bourne 👋
 
-<!--
-**josephbournenz-bit/josephbournenz-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Business Analyst based in Auckland, NZ. I have 3 years' experience in high-volume government processing at the Ministry of Social Development, and I'm building on that with data analysis, Python and Microsoft Fabric.
 
-Here are some ideas to get you started:
+## What I work with
+Python · SQL · Power BI · Power Query · Microsoft Fabric · Excel · pandas · scikit-learn · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[House Price Prediction](https://github.com/josephbournenz-bit/house-price-regression-fabric)**: multiple linear regression vs random forest in a Microsoft Fabric notebook. I led the data exploration and visualisation.
+- **[Sales Data EDA](https://github.com/josephbournenz-bit/sales-eda-pandas-seaborn)**: exploratory analysis of an online retailer's sales with pandas, Matplotlib and Seaborn.
+
+## Background
+- Business Analyst at The Warehouse Group
+- Built a border legislation learning tool at MSD that improved new staff accuracy by approximately 70%
+- Currently completing the Data Analysis Accelerator at Mission Ready
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/joseph-bourne-7394a122a) · josephbourne50@gmail.com
